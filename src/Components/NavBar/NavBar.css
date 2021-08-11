@@ -1,0 +1,41 @@
+.Navbar__container {
+    margin: 0;
+    padding: 0;
+    height: 270px;
+    background-color: black;
+}
+
+.Navbar__nav img{
+    width: 50%;
+    height: 270px;
+    margin-left: 320px;
+    margin-top: -25px;
+}
+
+.Navbar__list {
+    margin-top: -15px;
+    margin-left: 135px;
+}
+
+.Navbar__list h4 {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    display: inline;
+    margin-right: 90px;
+}
+
+.Navbar__list h4:hover {
+    color: #00A1DF;
+    transition: 0.3s ease-in;
+    cursor: pointer;
+}
+
+.right {
+    float: right;
+    color: black;
+}
+
+span {
+    margin-left: 220px;
+}
