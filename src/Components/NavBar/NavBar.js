@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-import Grid from '@material-ui/core/Grid'
+import { Component } from 'react';
 import "./NavBar.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faShoppingCart, faSignInAlt, faUserPlus } from '@fortawesome/free-solid-svg-icons';

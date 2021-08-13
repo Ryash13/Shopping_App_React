@@ -1,0 +1,8 @@
+.carousel-indicators .active {
+    background-color: black !important;
+    transition: 0.5s ease-in;
+}
+
+.carousel-indicators button[aria-current="false"] {
+    background-color: #999;
+}
