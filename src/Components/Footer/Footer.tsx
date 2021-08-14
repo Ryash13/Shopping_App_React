@@ -22,23 +22,23 @@ const Footer: FC = () => {
                     <div className="col-xs-6 col-md-3">
                         <h6>Categories</h6>
                         <ul className="footer-links">
-                            <li><a href="https://www.cprogramming.com/">C</a></li>
-                            <li><a href="https://dribbble.com/tags/web_ui">UI Design</a></li>
-                            <li><a href="https://spring.io/projects/spring-boot">Spring Boot</a></li>
-                            <li><a href="https://www.java.com/en/">Java</a></li>
-                            <li><a href="https://reactjs.org/">React</a></li>
-                            <li><a href="https://angular.io/">Angular</a></li>
+                            <li><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">C</a></li>
+                            <li><a href="https://dribbble.com/tags/web_ui" target="_blank" rel="noreferrer">UI Design</a></li>
+                            <li><a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">Spring Boot</a></li>
+                            <li><a href="https://www.java.com/en/" target="_blank" rel="noreferrer">Java</a></li>
+                            <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">React</a></li>
+                            <li><a href="https://angular.io/" target="_blank" rel="noreferrer">Angular</a></li>
                         </ul>
                     </div>
 
                     <div className="col-xs-6 col-md-3">
                         <h6>Quick Links</h6>
                         <ul className="footer-links">
-                            <li><a href="https://reactjs.org/">About Us</a></li>
-                            <li><a href="https://reactjs.org/">Contact Us</a></li>
-                            <li><a href="https://reactjs.org/">Contribute</a></li>
-                            <li><a href="https://reactjs.org/">Privacy Policy</a></li>
-                            <li><a href="https://reactjs.org/">Sitemap</a></li>
+                            <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">About Us</a></li>
+                            <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">Contact Us</a></li>
+                            <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">Contribute</a></li>
+                            <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">Privacy Policy</a></li>
+                            <li><a href="https://reactjs.org/" target="_blank" rel="noreferrer">Sitemap</a></li>
                         </ul>
                     </div>
                 </div>
